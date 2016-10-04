@@ -93,8 +93,11 @@
 }
 .quote_container {
 	text-align: center;
-	font-size: 35px;
+	font-size: 40px;
 	line-height: 1.2;
+}
+.quote_container i {
+    color: #236eb9;
 }
 #str_text_1 {
 	top: 35px;
