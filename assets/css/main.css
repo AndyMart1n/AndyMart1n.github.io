@@ -281,3 +281,13 @@
 	border-width: 12px 0 12px 60px;
 }
 /*====================================================*/
+@media (min-width: 992px) {
+    .container.fixed {
+        width: 1170px;
+    }
+}
+@media (min-width: 768px){
+    .container.fixed {
+        width: 1170px;
+    }
+}
